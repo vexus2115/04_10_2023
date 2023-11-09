@@ -1,5 +1,5 @@
 zad1 : D
-zad2 : A
+zad2 : B
 zad3 : B
-zad4 : C
-zad5 : A
+zad4 : D
+zad5 : D
