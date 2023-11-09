@@ -17,6 +17,7 @@
     ?>
     <h2>kod z petla while </h2>
     <?php
+     $i = 1;
     while ($i <= 10) {
         $sqrt = sqrt($i);
         echo "liczba: $i, pierwiastek kwadratowy : $sqrt <br>";
