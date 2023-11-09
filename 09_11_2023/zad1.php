@@ -1,0 +1,1 @@
+stosowanie petli ma wiele korzyści dla programistów.Pętle umozliwiają automatyzajce powtzrzalnych zadań co znacznie redukuje ilosc powtzrzającego się kodu i ułatwia zarzadzanie nim.Ponadto petle pozwalają programiście operowac na zbiorahc danych co jest przydatne przy przetwarzaniu i analizie informacji.
